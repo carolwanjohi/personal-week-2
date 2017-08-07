@@ -1,12 +1,12 @@
-# {Calculator App}
+# Calculator App
 
-## {Calculator App created for practice}, {Aug 2017}
+## Calculator App created for practice, Aug 2017
 
-## By **{[Carol Wanjohi](https://github.com/carolwanjohi)}**
+## By **[Carol Wanjohi](https://github.com/carolwanjohi)**
 
 ## Description
 
-{This is a calculator app created to practice using JavaScript.}
+This is a calculator app created to practice using JavaScript.
 
 ## Setup/Installation Requirements
 
@@ -24,4 +24,4 @@ JavaScript
 
 _GitHub MIT_
 
-Copyright (c) {2017} **{Carol Wanjohi](<https://github.com/carolwanjohi)}>**
+Copyright (c) {2017} **[Carol Wanjohi](<https://github.com/carolwanjohi)**
