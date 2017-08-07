@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a folder to contain work for Week 2, Moringa Prep.
+This is a folder for the work done in Week 2 of [Moringa Prep]()http://moringaschool.com/prep/.
 
 ## Setup/Installation Requirements
 
