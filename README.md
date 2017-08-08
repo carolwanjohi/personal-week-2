@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a project folder for introduction to jQuery and practising to use it. This covers work done in Week 2 of [Moringa Prep](http://moringaschool.com/prep/).
+This is a folder for the work done in Week 2 of [Moringa Prep](http://moringaschool.com/prep/).
 
 ## Setup/Installation Requirements
 
