@@ -6,7 +6,7 @@
 
 ## Description
 
-This is a folder for the work done in Week 2 of [Moringa Prep](http://moringaschool.com/prep/).
+This is a folder for Calculator and Cooking work done in Week 2 of [Moringa Prep](http://moringaschool.com/prep/).
 
 ## Setup/Installation Requirements
 
