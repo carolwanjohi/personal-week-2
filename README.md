@@ -18,6 +18,4 @@ No known bugs.
 
 ### License
 
-_GitHub MIT_
-
-Copyright (c) {2017} **[Carol Wanjohi](https://github.com/carolwanjohi)**
+MIT {2017} **[Carol Wanjohi](https://github.com/carolwanjohi)**
